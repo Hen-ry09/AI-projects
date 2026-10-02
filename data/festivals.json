@@ -1,0 +1,72 @@
+{
+  "festivals": [
+    {
+      "id": "homowo",
+      "name": "Homowo Festival",
+      "ethnic_group": "Ga",
+      "region": "Greater Accra",
+      "month": "May",
+      "description": "Harvest festival meaning 'hooting at hunger' with street processions, drumming, and dancing",
+      "key_locations": ["Accra", "Teshie", "Nungua"],
+      "traveler_tips": ["Arrive early for a good spot", "Try the traditional kpokploi dish"]
+    },
+    {
+      "id": "aboakyer",
+      "name": "Aboakyer Festival",
+      "ethnic_group": "Effutu",
+      "region": "Central",
+      "month": "May",
+      "description": "Animal hunting festival where groups compete to catch a live antelope",
+      "key_locations": ["Winneba"],
+      "traveler_tips": ["Keep a safe distance from the hunt", "Very crowded event"]
+    },
+    {
+      "id": "odwira",
+      "name": "Odwira Festival",
+      "ethnic_group": "Akuapem",
+      "region": "Eastern",
+      "month": "September–October",
+      "description": "Purification and harvest festival with durbar of chiefs, drumming, and dancing",
+      "key_locations": ["Akropong"],
+      "traveler_tips": ["The grand durbar on Saturday features spectacular kente and gold regalia"]
+    },
+    {
+      "id": "panafest",
+      "name": "Panafest",
+      "region": "Central",
+      "month": "July–August (biennial)",
+      "description": "Pan-African Historical Theatre Festival celebrating African culture and diaspora heritage",
+      "key_locations": ["Cape Coast", "Elmina"],
+      "traveler_tips": ["Book accommodation months in advance", "International crowds"]
+    },
+    {
+      "id": "chale-wote",
+      "name": "Chale Wote Street Art Festival",
+      "region": "Greater Accra",
+      "month": "August",
+      "description": "Alternative street art, music, and performance festival",
+      "key_locations": ["James Town, Accra"],
+      "traveler_tips": ["Wear comfortable shoes", "Bring water"]
+    },
+    {
+      "id": "akwasidae",
+      "name": "Akwasidae",
+      "ethnic_group": "Ashanti",
+      "region": "Ashanti",
+      "month": "Every 42 days",
+      "description": "Sacred Asante celebration honoring the Golden Stool with a durbar at Manhyia Palace",
+      "key_locations": ["Kumasi"],
+      "traveler_tips": ["Dress modestly", "No photography inside the palace"]
+    },
+    {
+      "id": "hogbetsotso",
+      "name": "Hogbetsotso Festival",
+      "ethnic_group": "Anlo Ewe",
+      "region": "Volta",
+      "month": "November",
+      "description": "Festival of Exodus commemorating the Ewe migration from Notsie",
+      "key_locations": ["Anloga"],
+      "traveler_tips": ["Best experienced with a local guide"]
+    }
+  ]
+}

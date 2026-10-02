@@ -1,0 +1,59 @@
+{
+  "restaurants": [
+    {
+      "id": "azmera-accra",
+      "name": "Azmera Restaurant",
+      "city": "Accra",
+      "region": "Greater Accra",
+      "cuisine": ["Ghanaian", "African", "continental"],
+      "price_range_ghs": "100–250/person",
+      "description": "Popular restaurant in Osu serving Ghanaian classics and international dishes",
+      "signature_dishes": ["jollof rice", "fufu with light soup", "grilled tilapia"],
+      "rating": 4.3
+    },
+    {
+      "id": "bistro-22",
+      "name": "Bistro 22",
+      "city": "Accra",
+      "region": "Greater Accra",
+      "cuisine": ["continental", "fusion", "French"],
+      "price_range_ghs": "200–500/person",
+      "description": "Upscale dining in Airport Residential with international menu",
+      "signature_dishes": ["steak", "seafood platter", "pasta"],
+      "rating": 4.4
+    },
+    {
+      "id": "mama-africas",
+      "name": "Mama Africa Restaurant",
+      "city": "Cape Coast",
+      "region": "Central",
+      "cuisine": ["Ghanaian", "seafood"],
+      "price_range_ghs": "50–120/person",
+      "description": "Local favorite near Cape Coast Castle serving fresh seafood",
+      "signature_dishes": ["grilled lobster", "fried tilapia", "banku"],
+      "rating": 4.1
+    },
+    {
+      "id": "vic-cafe",
+      "name": "Vic's Cafe & Grill",
+      "city": "Kumasi",
+      "region": "Ashanti",
+      "cuisine": ["Ghanaian", "continental"],
+      "price_range_ghs": "60–150/person",
+      "description": "Popular meeting spot in Kumasi with garden seating",
+      "signature_dishes": ["grilled chicken", "waakye", "salads"],
+      "rating": 4.0
+    },
+    {
+      "id": "sunrise-beach-cape",
+      "name": "Sunrise Beach Restaurant",
+      "city": "Cape Coast",
+      "region": "Central",
+      "cuisine": ["seafood", "Ghanaian", "grill"],
+      "price_range_ghs": "50–150/person",
+      "description": "Beachfront restaurant at Brenu Beach",
+      "signature_dishes": ["mixed grill", "fried rice", "grilled tilapia"],
+      "rating": 3.9
+    }
+  ]
+}

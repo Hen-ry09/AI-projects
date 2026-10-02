@@ -1,0 +1,27 @@
+{
+  "agents": {
+    "akwaaba-ai": {
+      "name": "Akwaaba AI",
+      "description": "Ghana travel, tourism, culture, and language assistant",
+      "brain": "brain/brain.md",
+      "skills": [
+        "skills/itinerary-planner/SKILL.md",
+        "skills/attraction-search/SKILL.md",
+        "skills/culture-guide/SKILL.md",
+        "skills/language-helper/SKILL.md",
+        "skills/accommodation/SKILL.md",
+        "skills/transportation/SKILL.md",
+        "skills/budget-planner/SKILL.md",
+        "skills/food-guide/SKILL.md",
+        "skills/travel-updates/SKILL.md",
+        "skills/memory/SKILL.md"
+      ],
+      "memory": {
+        "directory": "memory"
+      },
+      "tools": {
+        "directory": "tools"
+      }
+    }
+  }
+}

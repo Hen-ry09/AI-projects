@@ -1,0 +1,148 @@
+{
+  "attractions": [
+    {
+      "id": "kwame-nkrumah-memorial",
+      "name": "Kwame Nkrumah Memorial Park",
+      "city": "Accra",
+      "region": "Greater Accra",
+      "category": ["history", "museum"],
+      "description": "Mausoleum and museum dedicated to Ghana's first president, Kwame Nkrumah",
+      "entry_fee_ghs": {"citizen": 10, "non_citizen": 40},
+      "hours": "9:00 AM – 5:00 PM daily",
+      "best_time": "Morning",
+      "tips": ["Guided tours available", "Photography allowed outside only"]
+    },
+    {
+      "id": "cape-coast-castle",
+      "name": "Cape Coast Castle",
+      "city": "Cape Coast",
+      "region": "Central",
+      "category": ["history", "heritage"],
+      "description": "UNESCO World Heritage site; former slave trading post with museum",
+      "entry_fee_ghs": {"citizen": 20, "non_citizen": 65},
+      "hours": "9:00 AM – 4:30 PM daily",
+      "best_time": "Morning",
+      "tips": ["Guided tour highly recommended", "Emotional experience — prepare mentally"]
+    },
+    {
+      "id": "kakum-canopy-walkway",
+      "name": "Kakum National Park Canopy Walkway",
+      "city": "Cape Coast",
+      "region": "Central",
+      "category": ["nature", "adventure"],
+      "description": "350m long suspension bridge walkway 40m above the rainforest floor",
+      "entry_fee_ghs": {"citizen": 60, "non_citizen": 200},
+      "hours": "6:00 AM – 5:00 PM daily",
+      "best_time": "6:00 AM – 9:00 AM",
+      "tips": ["Wear closed shoes", "Bring insect repellent", "Avoid if you have severe vertigo"]
+    },
+    {
+      "id": "mole-national-park",
+      "name": "Mole National Park",
+      "city": "Larabanga",
+      "region": "Savannah",
+      "category": ["nature", "wildlife", "adventure"],
+      "description": "Ghana's largest wildlife reserve with elephants, antelopes, and 300+ bird species",
+      "entry_fee_ghs": {"citizen": 30, "non_citizen": 150},
+      "hours": "6:00 AM – 5:00 PM daily",
+      "best_time": "December – April (dry season)",
+      "tips": ["Book game drives at reception", "Bring binoculars", "No phone signal"]
+    },
+    {
+      "id": "labadi-beach",
+      "name": "Labadi Beach",
+      "city": "Accra",
+      "region": "Greater Accra",
+      "category": ["beach", "entertainment"],
+      "description": "Popular public beach with music, food stalls, horse rides, and beach sports",
+      "entry_fee_ghs": {"citizen": 5, "non_citizen": 20},
+      "hours": "6:00 AM – 10:00 PM daily",
+      "best_time": "Weekends (liveliest), Weekdays (quieter)",
+      "tips": ["Keep valuables secure", "Negotiate prices at food stalls"]
+    },
+    {
+      "id": "manhyia-palace",
+      "name": "Manhyia Palace Museum",
+      "city": "Kumasi",
+      "region": "Ashanti",
+      "category": ["history", "culture", "heritage"],
+      "description": "Official residence of the Asantehene; museum of Ashanti history and the Golden Stool",
+      "entry_fee_ghs": {"citizen": 10, "non_citizen": 50},
+      "hours": "9:00 AM – 5:00 PM daily",
+      "best_time": "Akwasidae festival days (every 42 days)",
+      "tips": ["No photography inside", "Dress modestly", "Guides available"]
+    },
+    {
+      "id": "elmina-castle",
+      "name": "Elmina Castle (St. George's Castle)",
+      "city": "Elmina",
+      "region": "Central",
+      "category": ["history", "heritage"],
+      "description": "Oldest European building in sub-Saharan Africa; UNESCO World Heritage site",
+      "entry_fee_ghs": {"citizen": 20, "non_citizen": 65},
+      "hours": "9:00 AM – 4:30 PM daily",
+      "best_time": "Morning",
+      "tips": ["Combine with Cape Coast Castle", "Guided tour included"]
+    },
+    {
+      "id": "aburi-botanical-gardens",
+      "name": "Aburi Botanical Gardens",
+      "city": "Aburi",
+      "region": "Eastern",
+      "category": ["nature", "relaxation"],
+      "description": "Beautiful hilltop botanical garden from 1890 with cool climate and scenic views",
+      "entry_fee_ghs": {"citizen": 10, "non_citizen": 40},
+      "hours": "7:00 AM – 5:00 PM daily",
+      "best_time": "Weekday mornings",
+      "tips": ["30 min drive from Accra via winding road", "Great picnic spot"]
+    },
+    {
+      "id": "wli-waterfalls",
+      "name": "Wli Waterfalls",
+      "city": "Hohoe",
+      "region": "Volta",
+      "category": ["nature", "adventure"],
+      "description": "Tallest waterfall in West Africa at 80m, set in the Agumatsa Wildlife Sanctuary",
+      "entry_fee_ghs": {"citizen": 10, "non_citizen": 40},
+      "hours": "6:00 AM – 5:00 PM daily",
+      "best_time": "After rainy season (September–November) for strongest flow",
+      "tips": ["Hire a guide at the entrance", "Bring swimwear for the plunge pool"]
+    },
+    {
+      "id": "independence-square",
+      "name": "Independence Square (Black Star Square)",
+      "city": "Accra",
+      "region": "Greater Accra",
+      "category": ["history", "landmark"],
+      "description": "Historic square with Independence Arch, Black Star Gate, and eternal flame",
+      "entry_fee_ghs": {"citizen": 0, "non_citizen": 0},
+      "hours": "Open area (24 hrs)",
+      "best_time": "Late afternoon for photos",
+      "tips": ["Free to visit", "Combine with Kwame Nkrumah Memorial Park (5 min walk)"]
+    },
+    {
+      "id": "lake-volta-cruise",
+      "name": "Lake Volta Cruise",
+      "city": "Akosombo",
+      "region": "Eastern",
+      "category": ["nature", "relaxation", "adventure"],
+      "description": "Cruise on the world's largest man-made lake by surface area",
+      "entry_fee_ghs": {"citizen": 100, "non_citizen": 250},
+      "hours": "By arrangement",
+      "best_time": "Year-round",
+      "tips": ["Book through Akosombo Marina", "Sunset cruises are recommended"]
+    },
+    {
+      "id": "kwesi-plange-arts",
+      "name": "Kwesi Plange Arts Centre",
+      "city": "Accra",
+      "region": "Greater Accra",
+      "category": ["shopping", "culture"],
+      "description": "Open-air market for Ghanaian arts, crafts, textiles, and souvenirs",
+      "entry_fee_ghs": {"citizen": 0, "non_citizen": 0},
+      "hours": "9:00 AM – 6:00 PM daily",
+      "best_time": "Late morning to early afternoon",
+      "tips": ["Bargain — start at 50% of quoted price", "Cash only"]
+    }
+  ]
+}

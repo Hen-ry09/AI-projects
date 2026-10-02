@@ -1,0 +1,32 @@
+# Environment
+.env
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Node / npm
+node_modules/
+
+# TypeScript
+*.tsbuildinfo
+
+# Sessions (user data)
+sessions/*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

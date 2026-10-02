@@ -1,0 +1,90 @@
+{
+  "twi": {
+    "greetings": {
+      "welcome": {"phrase": "Akwaaba", "pronunciation": "ah-kwah-bah"},
+      "good_morning": {"phrase": "Maakye", "pronunciation": "mah-chay"},
+      "good_afternoon": {"phrase": "Maaha", "pronunciation": "mah-hah"},
+      "good_evening": {"phrase": "Maadwo", "pronunciation": "mah-joh"},
+      "hello_response": {"phrase": "Yaa nua", "pronunciation": "yah noo-ah"}
+    },
+    "common": {
+      "thank_you": {"phrase": "Medaase", "pronunciation": "may-dah-say"},
+      "please": {"phrase": "Mepaakyɛw", "pronunciation": "may-pah-chaw"},
+      "yes": {"phrase": "Aane", "pronunciation": "ah-ay-nay"},
+      "no": {"phrase": "Dabi", "pronunciation": "dah-bee"},
+      "sorry": {"phrase": "Kafra", "pronunciation": "kah-frah"},
+      "how_much": {"phrase": "Ne bo yɛ sen?", "pronunciation": "nay boh yeh sen"},
+      "delicious": {"phrase": "Ede", "pronunciation": "eh-deh"}
+    },
+    "numbers": {
+      "1": {"phrase": "Baako"},
+      "2": {"phrase": "Mmienu"},
+      "3": {"phrase": "Mmiɛnsa"},
+      "4": {"phrase": "Mmanan"},
+      "5": {"phrase": "Mmienum"},
+      "6": {"phrase": "Mmiensia"},
+      "7": {"phrase": "Mmiensɔn"},
+      "8": {"phrase": "Mmiɛnwɔtwe"},
+      "9": {"phrase": "Mmiɛnkron"},
+      "10": {"phrase": "Edu"}
+    }
+  },
+  "ga": {
+    "greetings": {
+      "welcome": {"phrase": "Akwaba", "pronunciation": "ah-kwah-bah"},
+      "hello": {"phrase": "Te onyɛ?", "pronunciation": "tay oh-nyeh"},
+      "good_morning": {"phrase": "Gbɛkɛ morning", "pronunciation": "gbeh-keh mor-ning"},
+      "good_afternoon": {"phrase": "Ŋwɛ morning", "pronunciation": "ngweh mor-ning"},
+      "good_evening": {"phrase": "Hɔŋ morning", "pronunciation": "hawng mor-ning"}
+    },
+    "common": {
+      "thank_you": {"phrase": "Oyiwala dɔŋŋ", "pronunciation": "oh-yee-wah-lah dong"},
+      "please": {"phrase": "Taoki", "pronunciation": "tah-oh-kee"},
+      "yes": {"phrase": "Hɛɛ", "pronunciation": "heh-eh"},
+      "no": {"phrase": "Dabi", "pronunciation": "dah-bee"},
+      "how_much": {"phrase": "Mɛni ehe?", "pronunciation": "meh-nee eh-heh"},
+      "delicious": {"phrase": "Ekɛ", "pronunciation": "eh-keh"}
+    },
+    "numbers": {
+      "1": {"phrase": "Ekome"},
+      "2": {"phrase": "Enyɔ"},
+      "3": {"phrase": "Etɛ"},
+      "4": {"phrase": "Ejwɛ"},
+      "5": {"phrase": "Enumɔ"},
+      "6": {"phrase": "Ekpaa"},
+      "7": {"phrase": "Kpaawɔ"},
+      "8": {"phrase": "Kpaanyɔ"},
+      "9": {"phrase": "Nɛɛhu"},
+      "10": {"phrase": "Nyɔngmɔ"}
+    }
+  },
+  "ewe": {
+    "greetings": {
+      "welcome": {"phrase": "Woe zɔ", "pronunciation": "woh-ay zoh"},
+      "hello": {"phrase": "Aho", "pronunciation": "ah-hoh"},
+      "good_morning": {"phrase": "Ŋdi na mi", "pronunciation": "ng-dee nah mee"},
+      "good_afternoon": {"phrase": "Ŋdɔ na mi", "pronunciation": "ng-doh nah mee"},
+      "good_evening": {"phrase": "Fiɛyi na mi", "pronunciation": "fee-ay-yee nah mee"}
+    },
+    "common": {
+      "thank_you": {"phrase": "Akpe", "pronunciation": "ahk-pay"},
+      "please": {"phrase": "Taflatse", "pronunciation": "tah-flah-tsay"},
+      "yes": {"phrase": "Ɛ̃", "pronunciation": "eh (nasal)"},
+      "no": {"phrase": "Ao", "pronunciation": "ah-oh"},
+      "how_much": {"phrase": "Ga nenie?", "pronunciation": "gah nay-nee-ay"},
+      "delicious": {"phrase": "Evivi", "pronunciation": "eh-vee-vee"}
+    },
+    "numbers": {
+      "1": {"phrase": "Ɖeka"},
+      "2": {"phrase": "Eve"},
+      "3": {"phrase": "Etɔ̃"},
+      "4": {"phrase": "Ene"},
+      "5": {"phrase": "Atɔ̃"},
+      "6": {"phrase": "Ade"},
+      "7": {"phrase": "Adre"},
+      "8": {"phrase": "Enyi"},
+      "9": {"phrase": "Asieke"},
+      "10": {"phrase": "Ewo"}
+    }
+  }
+}

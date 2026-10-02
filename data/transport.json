@@ -1,0 +1,23 @@
+{
+  "ride_hailing": [
+    {"app": "Uber", "cities": ["Accra", "Kumasi", "Tema"], "base_fare_ghs": 5, "per_km_ghs": 2},
+    {"app": "Bolt", "cities": ["Accra", "Kumasi", "Tema", "Takoradi", "Cape Coast"], "base_fare_ghs": 4, "per_km_ghs": 1.8},
+    {"app": "Yango", "cities": ["Accra", "Kumasi"], "base_fare_ghs": 4, "per_km_ghs": 1.5}
+  ],
+  "intercity_buses": [
+    {"company": "STC", "ac": true, "type": "standard", "routes": ["All major routes"]},
+    {"company": "VIP Transport", "ac": true, "type": "luxury", "routes": ["Accra ↔ Kumasi", "Accra ↔ Takoradi", "Accra ↔ Tamale"]},
+    {"company": "OA Travel", "ac": true, "type": "standard", "routes": ["Accra ↔ Kumasi", "Accra ↔ Sunyani"]},
+    {"company": "Metro Mass", "ac": false, "type": "budget", "routes": ["All major routes"]}
+  ],
+  "sample_fares": [
+    {"route": "Accra → Kumasi", "distance_km": 260, "vip_fare_ghs": "120–180", "stc_fare_ghs": "80–120", "duration": "4–5 hrs"},
+    {"route": "Accra → Cape Coast", "distance_km": 150, "vip_fare_ghs": "60–90", "stc_fare_ghs": "40–60", "duration": "2.5–3 hrs"},
+    {"route": "Accra → Takoradi", "distance_km": 220, "vip_fare_ghs": "100–150", "stc_fare_ghs": "70–100", "duration": "3.5–4 hrs"},
+    {"route": "Accra → Tamale", "distance_km": 650, "vip_fare_ghs": "250–350", "stc_fare_ghs": "180–250", "duration": "10–12 hrs"}
+  ],
+  "domestic_flights": [
+    {"airline": "Africa World Airlines (AWA)", "routes": ["Accra ↔ Kumasi", "Accra ↔ Tamale"], "fare_ghs": "500–1200", "duration": "1 hr"},
+    {"airline": "PassionAir", "routes": ["Accra ↔ Kumasi", "Accra ↔ Takoradi"], "fare_ghs": "500–1200", "duration": "1 hr"}
+  ]
+}

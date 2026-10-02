@@ -1,0 +1,81 @@
+{
+  "hotels": [
+    {
+      "id": "labadi-beach-hotel",
+      "name": "Labadi Beach Hotel",
+      "city": "Accra",
+      "region": "Greater Accra",
+      "tier": "luxury",
+      "price_range_ghs": "1500–3000/night",
+      "description": "Beachfront luxury hotel with pool, multiple restaurants, and spa",
+      "features": ["pool", "spa", "restaurant", "beach access", "free wifi", "gym"],
+      "rating": 4.3
+    },
+    {
+      "id": "movenpick-accra",
+      "name": "Mövenpick Ambassador Hotel",
+      "city": "Accra",
+      "region": "Greater Accra",
+      "tier": "luxury",
+      "price_range_ghs": "2000–4000/night",
+      "description": "Five-star hotel in central Accra with excellent business facilities",
+      "features": ["pool", "spa", "multiple restaurants", "free wifi", "gym", "conference"],
+      "rating": 4.5
+    },
+    {
+      "id": "african-regent-hotel",
+      "name": "African Regent Hotel",
+      "city": "Accra",
+      "region": "Greater Accra",
+      "tier": "mid-range",
+      "price_range_ghs": "800–1500/night",
+      "description": "Comfortable mid-range hotel in Airport Residential area",
+      "features": ["pool", "restaurant", "free wifi", "gym"],
+      "rating": 4.1
+    },
+    {
+      "id": "zaina-lodge",
+      "name": "Zaina Lodge",
+      "city": "Larabanga",
+      "region": "Savannah",
+      "tier": "luxury",
+      "price_range_ghs": "2000–5000/night",
+      "description": "Luxury eco-lodge at Mole National Park with game viewing deck",
+      "features": ["pool", "restaurant", "game drives", "free wifi", "nature views"],
+      "rating": 4.6
+    },
+    {
+      "id": "mole-motel",
+      "name": "Mole Motel",
+      "city": "Larabanga",
+      "region": "Savannah",
+      "tier": "budget",
+      "price_range_ghs": "250–500/night",
+      "description": "Basic park-run accommodation inside Mole National Park",
+      "features": ["restaurant", "basic rooms", "park access"],
+      "rating": 3.2
+    },
+    {
+      "id": "ridge-royal-hotel",
+      "name": "Ridge Royal Hotel",
+      "city": "Cape Coast",
+      "region": "Central",
+      "tier": "mid-range",
+      "price_range_ghs": "400–800/night",
+      "description": "Well-rated hotel in Cape Coast with pool and sea views",
+      "features": ["pool", "restaurant", "free wifi", "sea view"],
+      "rating": 4.0
+    },
+    {
+      "id": "golden-tulip-kumasi",
+      "name": "Golden Tulip Kumasi",
+      "city": "Kumasi",
+      "region": "Ashanti",
+      "tier": "luxury",
+      "price_range_ghs": "1000–2000/night",
+      "description": "International chain hotel in central Kumasi",
+      "features": ["pool", "restaurant", "free wifi", "gym", "bar"],
+      "rating": 4.2
+    }
+  ]
+}

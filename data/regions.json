@@ -1,0 +1,76 @@
+{
+  "regions": [
+    {
+      "name": "Greater Accra",
+      "capital": "Accra",
+      "description": "Coastal capital region, urban hub with beaches, nightlife, and cultural sites",
+      "key_cities": ["Accra", "Tema"],
+      "airports": ["Kotoka International Airport (ACC)"],
+      "main_attractions": ["Independence Square", "Kwame Nkrumah Memorial Park", "Labadi Beach", "Makola Market", "Jamestown"]
+    },
+    {
+      "name": "Central",
+      "capital": "Cape Coast",
+      "description": "Historic region with slave castles, rainforest national park, and beach resorts",
+      "key_cities": ["Cape Coast", "Elmina", "Winneba"],
+      "airports": [],
+      "main_attractions": ["Cape Coast Castle", "Elmina Castle", "Kakum National Park"]
+    },
+    {
+      "name": "Ashanti",
+      "capital": "Kumasi",
+      "description": "Heart of Asante culture, history, and craftsmanship; Ghana's second-largest city",
+      "key_cities": ["Kumasi", "Obuasi", "Mampong"],
+      "airports": ["Kumasi International Airport (KMS)"],
+      "main_attractions": ["Manhyia Palace", "Kejetia Market", "Prempeh II Museum", "Lake Bosomtwe"]
+    },
+    {
+      "name": "Western",
+      "capital": "Sekondi-Takoradi",
+      "description": "Oil city, beautiful beaches, and the gateway to the Nzulezu stilt village",
+      "key_cities": ["Takoradi", "Sekondi", "Axim", "Busua"],
+      "airports": ["Takoradi Airport"],
+      "main_attractions": ["Nzulezu Stilt Village", "Busua Beach", "Fort Metal Cross"]
+    },
+    {
+      "name": "Eastern",
+      "capital": "Koforidua",
+      "description": "Scenic region with botanical gardens, waterfalls, and mountains",
+      "key_cities": ["Koforidua", "Aburi", "Akosombo", "Kwahu"],
+      "airports": [],
+      "main_attractions": ["Aburi Botanical Gardens", "Lake Volta", "Kwahu Paragliding", "Boti Falls"]
+    },
+    {
+      "name": "Volta",
+      "capital": "Ho",
+      "description": "Lush green region with mountains, waterfalls, and Ewe cultural heritage",
+      "key_cities": ["Ho", "Hohoe", "Amedzofe", "Keta"],
+      "airports": ["Ho Airport (domestic)"],
+      "main_attractions": ["Wli Waterfalls", "Mount Afadjato", "Tafi Atome Monkey Sanctuary", "Keta Lagoon"]
+    },
+    {
+      "name": "Savannah",
+      "capital": "Damongo",
+      "description": "Northern savannah region, home to Mole National Park and Larabanga Mosque",
+      "key_cities": ["Damongo", "Larabanga", "Salaga"],
+      "airports": [],
+      "main_attractions": ["Mole National Park", "Larabanga Mosque", "Salaga Slave Market"]
+    },
+    {
+      "name": "Northern",
+      "capital": "Tamale",
+      "description": "Cultural hub of northern Ghana, vibrant markets, and traditional architecture",
+      "key_cities": ["Tamale", "Yendi", "Buipe"],
+      "airports": ["Tamale Airport (TML)"],
+      "main_attractions": ["Tamale Central Market", "Daboya", "Bui National Park"]
+    },
+    {
+      "name": "Bono East",
+      "capital": "Techiman",
+      "description": "Agricultural heartland with traditional festivals and the Kintampo waterfalls",
+      "key_cities": ["Techiman", "Kintampo", "Nkoranza"],
+      "airports": [],
+      "main_attractions": ["Kintampo Waterfalls", "Boabeng-Fiema Monkey Sanctuary", "Fuller Falls"]
+    }
+  ]
+}
